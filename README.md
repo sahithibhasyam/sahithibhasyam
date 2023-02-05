@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **CSP and GIS**
 
-- 💬 Ask me about **django, MySQL, Moodle and Android**
+- 💬 Ask me about **django, MySQL, ML, Moodle and Android**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
