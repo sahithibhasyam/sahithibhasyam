@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sahithi Bhashyam</h1>
 <h3 align="center">Your friendly neighborhood chaos pendulum</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300&vertical=top">
+<img width="90"><img align="center" alt="Coding" width="820" height="400" src="https://user-images.githubusercontent.com/16365745/218260820-fc86205a-c567-4080-acb1-10ada6e32b68.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahithibhasyam&label=Profile%20views&color=0e75b6&style=flat" alt="sahithibhasyam" /> </p>
 
