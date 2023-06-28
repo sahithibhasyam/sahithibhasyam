@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahithibhasyam&label=Profile%20views&color=0e75b6&style=flat" alt="sahithibhasyam" /> </p>
 
-- 🔭 I’m currently working on **Tibbles - A Timetable Generation System**
+- 🔭 I’m currently working on **SevaConnect - An App for Connecting Volunteers and Organisations**
 
-- 🌱 I’m currently learning **CSP and GIS**
+- 🌱 I’m currently learning **ML and Robotics**
 
-- 💬 Ask me about **django, MySQL, ML, Moodle and Android**
+- 💬 Ask me about **Django, ML, and Android Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
