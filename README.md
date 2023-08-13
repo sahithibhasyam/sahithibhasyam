@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **SevaConnect - An App for Connecting Volunteers and Organisations**
 
-- 🌱 I’m currently learning **ML and Robotics**
+- 🌱 I’m currently learning **ML, Robotics and Generative AI**
 
 - 💬 Ask me about **Django, ML, and Android Development**
 
